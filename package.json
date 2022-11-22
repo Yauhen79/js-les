@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Yauhen79/js-les/issues"
   },
-  "homepage": "https://github.com/Yauhen79/js-less#readme"
+  "homepage": "https://github.com/Yauhen79/js-less#readme",
+  "devDependencies": {
+    "fs-extra": "^10.1.0"
+  }
 }
