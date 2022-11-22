@@ -1,0 +1,19 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "My test study",
+  "main": "index.js",
+  "scripts": {
+    "test": "js-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Yauhen79/js-les.git"
+  },
+  "author": "Evgeny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yauhen79/js-les/issues"
+  },
+  "homepage": "https://github.com/Yauhen79/js-less#readme"
+}
