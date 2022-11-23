@@ -1,2 +1,1 @@
-var text = 'Hello, World';
-console.log(text);
+const fs = require('fs-extra');
